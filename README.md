@@ -1,5 +1,5 @@
 # VideoEditor-java-javaFx❤️
-# محرر فيديو لتعديل الفيدوهات وانشاء فيدوهاتك الخاصة
+# Video editor to edit videos and create your own videos in Java
 ## ✒️Uses 
 1. > * Java v 15
 1. > * javaFx 18
